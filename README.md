@@ -1,5 +1,5 @@
 
-# Human Emotion Classifier
+# Human Emotion Detection
 
 This repository contains a deep learning model that classifies images into two categories: Happy or Sad. The model is built using TensorFlow and Keras, and it utilizes OpenCV for image preprocessing. The project is developed and tested in a Jupyter Notebook environment, and the model is implemented using a Convolutional Neural Network (CNN).
 
